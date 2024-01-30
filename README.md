@@ -1,8 +1,5 @@
- <p align="center">
-  <a href="https://github.com/SamirPaulb"> <img loading="lazy" alt="Welcome" src="assets/welcome.svg"/> </a>
-</p>
-
  
+# Hi there 👋
 
 - 🔭 I’m  Aya From PALESTINE
 - 🌱 Computer system engineering
