@@ -1,5 +1,4 @@
-### Hi there 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/SamirPaulb"> <img loading="lazy" alt="Welcome" src="assets/welcome.svg"/> </a>
 </p>
 
