@@ -1,6 +1,4 @@
-### Hi there 👋
- 
-
+### Hi there 
 
 - 🔭 I’m  Aya From PALESTINE
 - 🌱 Computer system engineering
